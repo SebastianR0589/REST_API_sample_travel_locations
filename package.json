@@ -1,0 +1,13 @@
+{
+  "name": "travel-locations",
+  "version": "1.0.0",
+  "description": "a dataset for interesting travel locations",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sebastian Riedel",
+  "license": "ISC"
+}
